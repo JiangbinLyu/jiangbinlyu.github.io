@@ -60,16 +60,14 @@ Coming soon...
   <div class="panel-footer">
 	<div class="container-fluid">
 	  <div class="row">
-		<div class="col-sm-6">				
-		<div class="row">
-		  <a href="https://www.revolvermaps.com/livestats/5yxqs2uwv0h/"><img src="//rf.revolvermaps.com/h/m/a/7/ff0000/128/30/5yxqs2uwv0h.png" width="256" height="128" alt="Map" style="border:0;"></a>
-		</div>	
-		<div class="row">
-		  <script type="text/javascript" src="//counter.websiteout.net/js/28/10/20/0"></script>
-		</div>	
+		<div class="col-sm-4">				
+          <a href="https://www.revolvermaps.com/livestats/5yxqs2uwv0h/"><img src="//rf.revolvermaps.com/h/m/a/7/ff0000/128/30/5yxqs2uwv0h.png" width="256" height="128" alt="Map" style="border:0;"></a>
 		</div>
-		<div class="col-sm-6">
+	    <div class="col-sm-4">
+	      <script type="text/javascript" src="//counter.websiteout.net/js/28/10/20/0"></script>
 		  <p>&copy 2019 Jiangbin Lyu</p>
+		</div>
+		<div class="col-sm-4">
 		  Email: ljb AT xmu.edu.cn<br />
 		  Address: Haiyun Campus, Xiamen University<br />
 		  Siming South Road 422, Xiamen, Fujian, China, 361005 <br />
