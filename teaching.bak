@@ -10,6 +10,8 @@
   <link rel="stylesheet" href="https://jiangbinlyu.github.io/css/main.css">
   <link rel="canonical" href="https://jiangbinlyu.github.io/teaching">
 <link rel="shortcut icon" type ="image/x-icon" href="https://jiangbinlyu.github.io/images/favicon.ico">
+<link rel="stylesheet" href="https://jiangbinlyu.github.io/css/font-awesome.min.css">
+
 
 
 
@@ -47,11 +49,11 @@
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
 		<li><a href="https://jiangbinlyu.github.io/">Home</a></li>
-		<li><a href="https://jiangbinlyu.github.io/#research">Research</a></li>
-		<li><a href="https://jiangbinlyu.github.io/#funding">Funding</a></li>
+		<li><a href="https://jiangbinlyu.github.io/#projects">Projects</a></li>
 		<li><a href="https://jiangbinlyu.github.io/#publications">Publications</a></li>
 		<li><a href="https://jiangbinlyu.github.io/#students">Students</a></li>
 		<li><a href="https://jiangbinlyu.github.io/#teaching">Teaching</a></li>
+		<li><a href="https://jiangbinlyu.github.io/#service">Service</a></li>
 	  </ul>
 	</div>
   </div>
@@ -101,6 +103,7 @@
 		  <p>&copy 2019 Jiangbin Lyu</p>
 		</div>
 		<div class="col-sm-4">
+		  <p>  </p>
 		  <strong>Email:</strong> ljb AT xmu.edu.cn<br />
 		  <strong>Address:</strong> Haiyun Campus, Xiamen University<br />
 		  Siming South Road 422, Xiamen, Fujian, China, 361005 <br />

@@ -6196,14 +6196,14 @@ pubtit {
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
 .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
-  padding-left: 16px;
-  padding-right: 16px; }
+  padding-left: 10px;
+  padding-right: 10px; }
 
 /* Grid overrides */
 .col-sm-4 {
-  padding-left: 16px;
+  padding-left: 10px;
   /* 26px */
-  padding-right: 16px;
+  padding-right: 10px;
   /* 26px */ }
 
 /* Carusel */
@@ -6225,7 +6225,49 @@ hr {
   border-width: 2px 0;
   margin: 3px 0; }
 
-ul {
+.LyuListSquare {
   list-style-type: square;
   list-style-position: outside;
-  list-style-image: none; }
+  list-style-image: none;
+  padding-left: 20px; }
+
+.LyuBGcolor {
+  background-color: #fefce5; }
+
+.LyuBox {
+  padding-left: 20px;
+  padding-right: 20px; }
+
+.custom-counter {
+  margin-left: -1em;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column-reverse; }
+
+.custom-counter li {
+  counter-increment: step-counter;
+  margin-bottom: 10px;
+  list-style-position: inside;
+  text-indent: -2em;
+  padding-left: 1em; }
+
+.custom-counter li::before {
+  content: counter(step-counter);
+  margin-right: 5px;
+  margin-left: 5px;
+  font-size: 90%;
+  background-color: #00c8c8;
+  color: white;
+  font-weight: bold;
+  padding: 3px 8px;
+  border-radius: 3px; }
+
+/* show reverse by horizontal row */
+.row-reverse {
+  display: flex;
+  flex-direction: row-reverse; }
+
+/* show reverse by vertical column */
+.column-reverse {
+  display: flex;
+  flex-direction: column-reverse; }
