@@ -7,10 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Allan Lab - Publications</title>
   <meta name="description" content="Allan Lab -- Publications.">
-  <link rel="stylesheet" href="https://jiangbinlyu.github.io/css/main.css">
-  <link rel="canonical" href="https://jiangbinlyu.github.io/publications/">
-<link rel="shortcut icon" type ="image/x-icon" href="https://jiangbinlyu.github.io/images/favicon.ico">
-<link rel="stylesheet" href="https://jiangbinlyu.github.io/css/font-awesome.min.css">
+  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/publications/">
+<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
+<link rel="stylesheet" href="http://localhost:4000/css/font-awesome.min.css">
 
 
 
@@ -22,11 +22,11 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Allan Lab – Publications." />
 <meta property="og:description" content="Allan Lab – Publications." />
-<link rel="canonical" href="https://jiangbinlyu.github.io/publications/" />
-<meta property="og:url" content="https://jiangbinlyu.github.io/publications/" />
+<link rel="canonical" href="http://localhost:4000/publications/" />
+<meta property="og:url" content="http://localhost:4000/publications/" />
 <meta property="og:site_name" content="Jiangbin Lyu’s Homepage" />
 <script type="application/ld+json">
-{"url":"https://jiangbinlyu.github.io/publications/","headline":"Allan Lab - Publications","description":"Allan Lab – Publications.","@type":"WebPage","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/publications/","headline":"Allan Lab - Publications","description":"Allan Lab – Publications.","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -44,16 +44,16 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <a class="navbar-brand" href="https://jiangbinlyu.github.io/">Jiangbin Lyu's Homepage</a>
+    <a class="navbar-brand" href="http://localhost:4000/">Jiangbin Lyu's Homepage</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="https://jiangbinlyu.github.io/">Home</a></li>
-		<li><a href="https://jiangbinlyu.github.io/#projects">Projects</a></li>
-		<li><a href="https://jiangbinlyu.github.io/#publications">Publications</a></li>
-		<li><a href="https://jiangbinlyu.github.io/#students">Students</a></li>
-		<li><a href="https://jiangbinlyu.github.io/#teaching">Teaching</a></li>
-		<li><a href="https://jiangbinlyu.github.io/#service">Service</a></li>
+		<li><a href="http://localhost:4000/">Home</a></li>
+		<li><a href="http://localhost:4000/#projects">Projects</a></li>
+		<li><a href="http://localhost:4000/#publications">Publications</a></li>
+		<li><a href="http://localhost:4000/#students">Students</a></li>
+		<li><a href="http://localhost:4000/#teaching">Teaching</a></li>
+		<li><a href="http://localhost:4000/#service">Service</a></li>
 	  </ul>
 	</div>
   </div>
@@ -99,8 +99,8 @@ Coming soon...
   </div>
 </div>
 
-<script src="https://jiangbinlyu.github.io/js/jquery.min.js"></script>
-<script src="https://jiangbinlyu.github.io/js/bootstrap.min.js"></script>
+<script src="http://localhost:4000/js/jquery.min.js"></script>
+<script src="http://localhost:4000/js/bootstrap.min.js"></script>
 
 
   </body>
