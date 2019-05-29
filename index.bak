@@ -54,6 +54,7 @@
 		<li><a href="https://jiangbinlyu.github.io/#students">Students</a></li>
 		<li><a href="https://jiangbinlyu.github.io/#teaching">Teaching</a></li>
 		<li><a href="https://jiangbinlyu.github.io/#service">Service</a></li>
+		<li><a href="https://information.xmu.edu.cn/info/1020/6335.htm">中文版</a></li>
 	  </ul>
 	</div>
   </div>
@@ -71,7 +72,7 @@
   <h1>**Dr. Lyu, Jiangbin (Luke)**</h1>
 </div>
 <div class="col-sm-3 clearfix">
-  <h1>吕江滨</h1>
+  <h1>吕江滨<a href="https://information.xmu.edu.cn/info/1020/6335.htm">中文主页</a></h1>
 </div>
 </div>
 
@@ -85,7 +86,7 @@
 <div class="col-sm-5 clearfix">
   <h3>**Assistant Professor**</h3>
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-university"  aria-hidden="true"></i><a href="https://information.xmu.edu.cn/">School of Information Science and Engineering</a>, <a href="https://en.xmu.edu.cn/">Xiamen University (厦门大学), China</a></li>
+  <li><i class="fa-li fa fa-university"  aria-hidden="true"></i><a href="https://information.xmu.edu.cn/">School of Information Science and Engineering (信息科学与技术学院)</a>, <a href="https://en.xmu.edu.cn/">Xiamen University (厦门大学), China</a></li>
 </ul>
   <h4>Affiliation</h4>
 <ul class="fa-ul">
@@ -221,6 +222,7 @@
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-users" aria-hidden="true"></i>Member of IEEE (Student Member 2012, Member 2016)</li>
   <li><i class="fa-li fa fa-users" aria-hidden="true"></i>Member of IEEE Communications Society</li>
+  <li><i class="fa-li fa fa-users" aria-hidden="true"></i>Member of Communications Society, Xiamen</li>  
 </ul>
 
 <h3>Scholarly and Professional Activities</h3>
