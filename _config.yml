@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Jiangbin Lyu's Homepage
+email: ljb@xmu.edu.cn
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome Genius!
+  This is the homepage of Dr. Lyu, Jiangbin from Xiamen University, China.
+baseurl: ""
+url: "https://jiangbinlyu.github.io"
+
+social:
+  name: Jiangbin Lyu
+  links:
+    - https://scholar.google.com/citations?hl=zh-CN&user=yDmixeYAAAAJ&view_op=list_works&gmla=AJsN-F4gFgtXds7BdNLJBrrs4nUvoTkgcUDO9mndQi4wT8XuNNwDcedGqH1xRE5jRHadUyJMdrgxx5A-_YUiy7-HeDbKYhVpjjYQSAfFuTtLotbTPmWq9Tk
+    - https://www.researchgate.net/profile/Jiangbin_Lyu
+    - https://cn.linkedin.com/in/nuslyu
+    - https://information.xmu.edu.cn/info/1020/6335.htm
+
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+# Lyu added plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

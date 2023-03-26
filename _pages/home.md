@@ -1,0 +1,237 @@
+---
+title: "Jiangbin Lyu - Home"
+layout: homelay
+excerpt: "Jiangbin Lyu at Xiamen University."
+sitemap: true
+permalink: /
+---
+
+<div class="LyuBGcolor">
+<div class="LyuBox">
+
+<div class="row">
+<div class="col-sm-9 clearfix">
+  <h1>**Dr. Lyu, Jiangbin (Luke)**</h1>
+</div>
+<div class="col-sm-3 clearfix">
+  <h1><a href="https://informatics.xmu.edu.cn/info/1020/6335.htm">吕江滨</a></h1>
+</div>
+</div>
+
+<div class="row-mb-5">
+<hr/>
+<hr/>
+</div>
+
+
+<div class="row">
+<div class="col-sm-5 clearfix">
+  <h3>**Associate Professor**</h3>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-university"  aria-hidden="true"></i><a href="https://informatics.xmu.edu.cn/">School of Informatics (信息学院)</a>, <a href="https://en.xmu.edu.cn/">Xiamen University (厦门大学), China</a></li>
+</ul>
+  <h4>Affiliation</h4>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-university"  aria-hidden="true"></i><a href="https://uacen.xmu.edu.cn/">Key Laboratory of Underwater Acoustic Communication and Marine Information Technology, Ministry of Education (水声通信与海洋信息技术教育部重点实验室)</a></li>
+  <li><i class="fa-li fa fa-university"  aria-hidden="true"></i>State-Local Joint Engineering Research Center for Navigation and Location Services (导航与位置服务国家地方联合工程研究中心)</li>
+</ul>
+  <h4>Research Group</h4>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-university"  aria-hidden="true"></i><a href="http://funlab.xmu.edu.cn/">FUture Networking Lab (FUNLab)</a></li>
+</ul>
+  <h4><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;Email: &nbsp;&nbsp;ljb AT xmu.edu.cn</h4>
+</div>
+<div class="col-sm-7 clearfix">
+<p>  </p>
+<p>  </p>
+<br />
+  <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/JLyu.jpg" width="100%">
+</div>
+</div>
+
+
+# Biography
+<hr/>
+<p>  </p>
+<h3>Experience</h3>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-graduation-cap"  aria-hidden="true"></i>2022-present: Associate Professor, <a href="https://informatics.xmu.edu.cn/">School of Informatics</a>, <a href="https://en.xmu.edu.cn/">Xiamen University</a></li>
+  <li><i class="fa-li fa fa-graduation-cap"  aria-hidden="true"></i>2017-2022: Assistant Professor, <a href="https://informatics.xmu.edu.cn/">School of Informatics</a>, <a href="https://en.xmu.edu.cn/">Xiamen University</a></li>
+  <li><i class="fa-li fa fa-graduation-cap"  aria-hidden="true"></i>2019.8-2019.9: Visiting Scholar,  <a href="http://www.nus.edu.sg/">National University of Singapore (NUS)</a></li>
+  <li><i class="fa-li fa fa-graduation-cap"  aria-hidden="true"></i>2015-2017: Research Fellow, <a href="http://www.nus.edu.sg/">Electrical and Computer Engineering (ECE) Department, NUS</a>; Advisor: <a href="https://www.ece.nus.edu.sg/stfpage/elezhang/">Prof. Rui Zhang</a></li>
+  <li><i class="fa-li fa fa-graduation-cap"  aria-hidden="true"></i>2011-2015: Doctor of Philosophy (Ph.D.), <a href="http://www.nus.edu.sg/ngs/">NUS Graduate School for Integrative Sciences and Engineering (NGS)</a>, <a href="http://www.nus.edu.sg/">NUS</a>; Advisor: <a href="https://www.ece.nus.edu.sg/stfpage/elewwcl/">Prof. Wai-Choong Wong (Lawrence)</a>, Dr. Yong Huat Chew</li>
+  <li><i class="fa-li fa fa-graduation-cap"  aria-hidden="true"></i>2007-2011: Bachelor of Engineering (Honors, Rank 3/153), <a href="http://www.cse.zju.edu.cn/">Control Science & Engineering</a>, <a href="http://ckc.zju.edu.cn/">Chu Kochen Honors College</a>, Zhejiang University; Advisor: <a href="http://www.sensornet.cn/index.html">Prof. Jiming Chen</a></li>
+</ul>
+
+<h3>Awards</h3>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-trophy"  aria-hidden="true"></i>2020-2022: Listed in <a href='https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4'><strong class='text-danger'>World's Top 2% Scientists</strong></a> by Stanford University.</li>
+  <li><i class="fa-li fa fa-trophy"  aria-hidden="true"></i>2020: <a href='https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-heinrich-hertz-award-best-communications'><strong class='text-danger'>IEEE ComSoc Heinrich Hertz Award</strong></a> for Best Communications Letter & Wireless Communications Letter.</li>
+  <li><i class="fa-li fa fa-trophy"  aria-hidden="true"></i>2019: High-Calibre Talent, Overseas Class B, Fujian Province (福建省引进高层次人才海外B类)</li>
+  <li><i class="fa-li fa fa-trophy"  aria-hidden="true"></i>2014: Best Paper Award, Singapore-Japan Int. Workshop on Smart Wireless Communications</li>
+  <li><i class="fa-li fa fa-trophy"  aria-hidden="true"></i>2011-2015: NGS Scholarship (highest scholarship for Ph.D. research in NUS)</li>
+  <li><i class="fa-li fa fa-trophy"  aria-hidden="true"></i>2011: Chu Kochen Honorary Diploma, Chu Kochen Honors College, Zhejiang University</li>
+  <li><i class="fa-li fa fa-trophy"  aria-hidden="true"></i>2011: Outstanding Graduate of Zhejiang University</li>
+  <li><i class="fa-li fa fa-trophy"  aria-hidden="true"></i>2008-2010: First Class Scholarship (2009), Second Class Scholarship (2008, 2010), Zhejiang University</li>
+</ul>
+
+<h3>Research Interests</h3>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-search"  aria-hidden="true"></i>3D Network Deployment Optimization</li>
+  <li><i class="fa-li fa fa-search"  aria-hidden="true"></i>Intelligent Reflecting Surface (IRS)</li>
+  <li><i class="fa-li fa fa-search"  aria-hidden="true"></i>Unmanned Aerial Vehicle (UAV) Communications</li>
+  <li><i class="fa-li fa fa-search"  aria-hidden="true"></i>Radio Map</li>
+</ul>
+
+<a name="projects"></a>
+<h1>Projects</h1>
+<hr/>
+<p>  </p>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-rocket" aria-hidden="true"></i>2019.1-2021.12, PI, Fundamental Research Funds for the Central Universities (厦门大学校长基金), No. 20720190008, "UAV-Enabled Internet of Things in the Sky based on Cellular Systems", 350,000 CNY.</li>
+  <li><i class="fa-li fa fa-rocket" aria-hidden="true"></i>2019.7-2022.6, PI, Natural Science Foundation of Fujian Province (福建省自然科学基金青年创新项目), No. 2019J05002, "3D Communication Coverage and Performance Optimization for Cellular-Connected UAVs", 40,000 CNY.</li>
+  <li><i class="fa-li fa fa-rocket" aria-hidden="true"></i>2019.1-2021.12, Principle Investigator (PI), National Natural Science Foundation of China (国家自然科学基金青年项目), No. 61801408, "Cellular-Connected UAV Communications: System Modeling and Interference Management", 250,000 CNY.</li>
+  <li><i class="fa-li fa fa-rocket" aria-hidden="true"></i>2015.6-2017.9, Participated, Defense Innovative Research Program (DIRP), Singapore,  "Mobile-Backhaul Enhanced Device-to-Device (D2D) Networking for Tactical Communications", 570,000 SGD.</li>
+</ul>
+
+<a name="publications"></a>
+<h1>Publications <small>(<a href="https://scholar.google.com/citations?user=yDmixeYAAAAJ&hl=en">Google Scholar Citations</a>)</small></h1>
+<hr/>
+<p>  </p>
+(The asterisk * denotes the Corresponding Author.)
+<h3>Journal</h3>
+<ol class="custom-counter">
+  <li><strong>Jiangbin Lyu</strong>, Yong Huat Chew and Wai-Choong Wong, <a href="https://arxiv.org/abs/1304.3640">"Aloha Games with Spatial Reuse"</a>, in <em>IEEE Transactions on Wireless Communications</em>, vol. 12, no. 8, pp. 3932-3941, Aug. 2013.</li>
+  <li><strong>Jiangbin Lyu*</strong>, Yong Huat Chew and Wai-Choong Wong, <a href="https://arxiv.org/abs/1512.06197">"A Stackelberg Game Model for Overlay D2D Transmission With Heterogeneous Rate Requirements"</a>, in <em>IEEE Transactions on Vehicular Technology</em>, vol. 65, no. 10, pp. 8461-8475, Oct. 2016.</li>
+  <li><strong>Jiangbin Lyu*</strong>, Yong Huat Chew and Wai-Choong Wong, <a href="https://arxiv.org/abs/1602.02040">"Efficient and Scalable Distributed Autonomous Spatial Aloha Networks via Local Leader Election"</a>, in <em>IEEE Transactions on Vehicular Technology</em>, vol. 65, no. 12, pp. 9954-9967, Dec. 2016.</li>
+  <li><strong>Jiangbin Lyu</strong>, Yong Zeng and Rui Zhang, <a href="https://arxiv.org/abs/1608.03180">"Cyclical Multiple Access in UAV-Aided Communications: A Throughput-Delay Tradeoff"</a>, in <em>IEEE Wireless Communications Letters</em>, vol. 5, no. 6, pp. 600-603, Dec. 2016.</li>
+  <li><strong>Jiangbin Lyu*</strong>, Yong Zeng, Rui Zhang and Teng Joon Lim, <a href="https://arxiv.org/abs/1612.01047">"Placement Optimization of UAV-Mounted Mobile Base Stations"</a>, in <em>IEEE Communications Letters</em>, vol. 21, no. 3, pp. 604-607, Mar. 2017. (<strong class="text-danger">ESI Highly Cited</strong>, <a href='https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-heinrich-hertz-award-best-communications'><strong class='text-danger'>IEEE ComSoc Heinrich Hertz Award</strong></a>)</li>
+  <li><strong>Jiangbin Lyu*</strong>, Yong Zeng and Rui Zhang, <a href="https://arxiv.org/abs/1705.09024">"UAV-Aided Offloading for Cellular Hotspot"</a>, in <em>IEEE Transactions on Wireless Communications</em>, vol. 17, no. 6, pp. 3988-4001, Jun. 2018. (<strong class="text-danger">ESI Highly Cited</strong>)</li>
+  <li>Yong Zeng, <strong>Jiangbin Lyu</strong> and Rui Zhang, <a href="https://arxiv.org/abs/1804.02217">"Cellular-Connected UAV: Potentials, Challenges and Promising Technologies"</a>, in <em>IEEE Wireless Communications</em>, vol. 26, no. 1, pp. 120-127, Feb. 2019. (<strong class="text-danger">ESI Highly Cited</strong>)</li>
+  <li>Suzhi Bi, <strong>Jiangbin Lyu*</strong> and Rui Zhang, <a href="https://arxiv.org/abs/1807.08235">"Engineering Radio Map for Wireless Resource Management"</a>, in <em>IEEE Wireless Communications</em>, vol. 26, no. 2, pp. 133-141, April 2019.</li>
+  <li><strong>Jiangbin Lyu*</strong> and Rui Zhang, <a href="https://arxiv.org/abs/1901.07887">"Network-Connected UAV: 3D System Modeling and Coverage Performance Analysis"</a>, in <em>IEEE Internet of Things Journal</em>, vol. 6, no. 4, pp. 7048-7060, Aug. 2019.</li>  
+  <li><strong>Jiangbin Lyu*</strong> and Rui Zhang, <a href="https://arxiv.org/abs/2001.02447">"Spatial Throughput Characterization for Intelligent Reflecting Surface Aided Multiuser System"</a>, in <em>IEEE Wireless Communications Letters</em>, vol. 9, no. 6, pp. 834-838, June 2020.</li>  
+  <li><strong>Jiangbin Lyu*</strong> and Rui Zhang, <a href="https://arxiv.org/abs/2004.13318">"Hybrid Active/Passive Wireless Network Aided by Intelligent Reflecting Surface: System Modeling and Performance Analysis"</a>, in <em>IEEE Transactions on Wireless Communications</em>, vol. 20, no. 11, pp. 7196-7212, Nov. 2021. (<a href='https://www.comsoc.org/publications/best-readings/reconfigurable-intelligent-surfaces'><strong class='text-danger'>IEEE ComSoc Best Readings in Reconfigurable Intelligent Surfaces</strong></a>)</li>  
+  <li><strong>Jiangbin Lyu</strong>, Dan Yu and Liqun Fu, <a href="https://arxiv.org/abs/2008.07438">"Analysis and Optimization for Large-Scale LoRa Networks: Throughput Fairness and Scalability"</a>, in <em>IEEE Internet of Things Journal</em>, vol. 9, no. 12, pp. 9574-9590, Jun. 2022.</li>
+  <li>Yifan Zhang, <strong>Jiangbin Lyu*</strong>, and Liqun Fu, <a href="https://arxiv.org/abs/2112.13396">"Energy-Efficient Trajectory Design for UAV-Aided Maritime Data Collection in Wind"</a>, in <em>IEEE Transactions on Wireless Communications</em>, vol. 21, no. 12, pp. 10871-10886, Dec. 2022.</li>
+  <li><strong>Jiangbin Lyu</strong>, Yifan Zhang, Jin Qiu, and Liqun Fu, <a href="https://jxmu.xmu.edu.cn/upload/html/20220201.html">"Unmanned aerial vehicles enabled offshore communication systems: opportunities and challenges (Invited Paper)"</a>, in <em>Journal of Xiamen University (Natural Science))</em>, vol. 61, no. 2, pp. 149-162, 2022.</li>
+  <li>Hongguang Sun, Zelun Zhao, Hu Cheng, <strong>Jiangbin Lyu</strong>, Xijun Wang, Yan Zhang and Tony Q. S. Quek, <a href="https://ieeexplore.ieee.org/document/10036459">"IRS-Assisted RF-powered IoT Networks: System Modeling and Performance Analysis"</a>, in <em>IEEE Transactions on Communications</em>, doi: 10.1109/TCOMM.2023.3242377.</li>
+  <li><strong>Jiangbin Lyu</strong>, Xu Chen, and Liqun Fu, <a href="">"Spatial deep learning for site-specific movement optimization of aerial base stations"</a>, submitted for possible journal publication.</li>
+</ol>
+
+    
+<h3>Conference</h3>
+<ol class="custom-counter">
+  <li><strong>Jiangbin Lyu*</strong>, Yong Huat Chew and Wai-Choong Wong, "An Autonomous Pareto Optimality Achieving Algorithm beyond Aloha Games with Spatial Reuse", in Proc. <em>IEEE Personal Indoor and Mobile Radio Communications (PIMRC)</em>, 2013, London.</li>
+  <li><strong>Jiangbin Lyu*</strong>, Yong Huat Chew and Wai-Choong Wong, "Efficient and Scalable Distributed Autonomous Spatial Aloha Networks via Local Leader Election", in <em>Singapore-Japan Int. Workshop on Smart Wireless Communications (SmartCom)</em>, 2014, Singapore. (<strong class="text-danger">Best Paper Award</strong>)</li>
+  <li><strong>Jiangbin Lyu*</strong>, Yong Huat Chew and Wai-Choong Wong, "Multi-Leader Stackelberg Games in Multi-Channel Spatial Aloha Networks", in Proc. <em>IEEE Vehicular Technology Conf. (VTC2015-Spring)</em>, 2015, Scotland.</li>
+  <li><strong>Jiangbin Lyu*</strong>, Yong Zeng and Rui Zhang, "Spectrum sharing and cyclical multiple access in UAV-aided cellular offloading", in Proc. <em>IEEE GLOBECOM</em>, 2017, Singapore.</li>
+  <li><strong>Jiangbin Lyu</strong>, Dan Yu and Liqun Fu, <a href="https://arxiv.org/abs/1904.12300">"Achieving Max-Min Throughput in LoRa Networks"</a>, in Proc. <em>Int. Conf. Computing, Networking and Communications (ICNC)</em>, 2020, Hawaii.</li>
+  <li>Jin Qiu, <strong>Jiangbin Lyu*</strong> and Liqun Fu, <a href="https://arxiv.org/abs/1911.08111">"Placement Optimization of Aerial Base Stations with Deep Reinforcement Learning"</a>, in Proc. <em>IEEE Int. Conf. Communications (ICC)</em>, 2020, Dublin.</li>
+  <li>Yifan Zhang, <strong>Jiangbin Lyu*</strong> and Liqun Fu, <a href="https://arxiv.org/abs/2006.01371">"Energy-Efficient Cyclical Trajectory Design for UAV-Aided Maritime Data Collection in Wind"</a>, in Proc. <em>IEEE GLOBECOM</em>, 2020, Taiwan.</li>  
+  <li>Bifeng Ling, <strong>Jiangbin Lyu*</strong> and Liqun Fu, <a href="https://arxiv.org/abs/2105.13600">"Placement Optimization and Power Control in Intelligent Reflecting Surface Aided Multiuser System"</a>, in Proc. <em>IEEE GLOBECOM</em>, 2021, Madrid.</li> 
+</ol>
+
+
+<h3>Patent</h3>
+<ol class="custom-counter">
+  <li>余丹（学生），<strong>吕江滨</strong>，付立群，岳蕾, 一种实现LoRa网络最优吞吐量公平性的方法，中国专利，申请日期2019.6.24，授权日期2020.4.20，专利号201910547394.5.</li>
+  <li>余丹（学生），<strong>吕江滨</strong>，付立群，岳蕾, 基于条件概率实现LoRa网关下行特定占空比的方法，中国专利，申请日期2019.7.23，授权日期2020.8.6，专利号201910665595.5.</li>
+  <li>李徐竹（学生），<strong>吕江滨</strong>，付立群，岳蕾, 一种实现LoRa网络吞吐量最大化和公平性的方法，中国专利，申请日期2020.8.26，授权日期2022.7.8，专利号202010871867.X.</li>
+  <li><strong>吕江滨</strong>，陈新潼，张一帆，付立群，岳蕾, 一种基于智能反射面的分区基站设计与立体覆盖方法, 中国专利，申请日期2022.8.9, 申请号202210948626.X.</li>
+</ol>
+
+
+<h3>Ph.D. Thesis</h3>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-book"  aria-hidden="true"></i>Jiangbin Lu, "Access and Stability Issues in Spectrum Commons", archived in <a href="http://scholarbank.nus.edu.sg/handle/10635/121964">ScholarBank@NUS.</a></li>
+</ul>
+
+<a name="students"></a>
+<h1>Current Students</h1>
+<hr/>
+<p>  </p>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-user" aria-hidden="true"></i>2022: Xintong Chen, Zhenyu Jiang, Yiling Wang</li>
+  <li><i class="fa-li fa fa-user" aria-hidden="true"></i>2021: Jiefeng Zhang (co-supervise), Dongsheng Fu</li>
+  <li><i class="fa-li fa fa-user" aria-hidden="true"></i>2020: Xu Chen (co-supervise), Rongyou Cao</li>
+  <li><i class="fa-li fa fa-user" aria-hidden="true"></i>2019: Yifan Zhang, Bifeng Ling</li>
+  <li><i class="fa-li fa fa-user" aria-hidden="true"></i>2018: Xuzhu Li (co-supervise), Jin Qiu</li>
+  <li><i class="fa-li fa fa-user" aria-hidden="true"></i>2017: Dan Yu (co-supervise)</li>
+</ul>
+
+
+<h1>Prospective Students</h1>
+<hr/>
+<p>  </p>
+  <i class="fa fa-user-plus" aria-hidden="true"></i>&nbsp;&nbsp;**I am looking for passionate new Master students to join the team and pursue topics including 3D network deployment optimization, intelligent reflecting surface, UAV communications, machine learning applications in communication networks, etc.**
+ 
+<a name="teaching"></a>
+<h1>Teaching</h1>
+<hr/>
+<p>  </p>
+
+<h3>Graduate Module</h3>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-pencil-square" aria-hidden="true"></i>Optimization Methods and Engineering Applications (2019/2-2019/6, 2020/2-2020/6, 2021/2-2021/6, 2022/2-2022/6, 2023/2-2023/6)</li>
+</ul>
+
+<h3>Undergraduate Modules</h3>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-pencil-square" aria-hidden="true"></i>Optimization Basics (2023/2-2023/6)</li>
+  <li><i class="fa-li fa fa-pencil-square" aria-hidden="true"></i>Circuit Principles (2019/2-2019/6, 2020/2-2020/6, 2021/2-2021/6, 2022/2-2022/6, 2023/2-2023/6)</li>
+  <li><i class="fa-li fa fa-pencil-square" aria-hidden="true"></i>Fundamentals of Network Technology (2018/4-2018/8)</li>
+</ul>
+
+<a name="service"></a>
+<h1>Service</h1>
+<hr/>
+<p>  </p>
+<h3>Professional and Scientific Society Membership</h3>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-users" aria-hidden="true"></i>Member of IEEE (Student Member 2012, Member 2016)</li>
+  <li><i class="fa-li fa fa-users" aria-hidden="true"></i>Member of IEEE Communications Society</li>
+  <li><i class="fa-li fa fa-users" aria-hidden="true"></i>Member of Communications Society, Xiamen</li>  
+</ul>
+
+<h3>Scholarly and Professional Activities</h3>
+<h4><u>Conference Chair</u></h4>
+<ul>
+  <li>Invited Track Co-Chair, IEEE/CIC International Conference on Communications in China (ICCC), 2021</li>
+</ul>
+
+<h4><u>Journal Reviewer</u></h4>
+<ul>
+  <li>IEEE Transactions on Wireless Communications</li>
+  <li>IEEE Transactions on Communications</li>
+  <li>IEEE Transactions on Vehicular Technology</li>
+  <li>IEEE Transactions on Mobile Computing</li>
+  <li>IEEE Internet of Things Journal</li>
+  <li>IEEE Transactions on Aerospace and Electronic Systems</li>
+  <li>IEEE Transactions on Industrial Informatics</li>
+  <li>IEEE Journal on Selected Areas in Communications – Airborne Networks</li>
+  <li>IEEE Transactions on Green Communications and Networking</li>
+  <li>IEEE Communications Magazine</li>
+  <li>IEEE Wireless Communications Magazine</li>
+  <li>IEEE Communications Letters</li>
+  <li>IEEE Wireless Communications Letters</li>  
+</ul>
+
+<h4><u>Member of Conference Technical Program Committee</u></h4>
+<ul>
+  <li>IEEE GLOBECOM 2022 (SAC: Aerial Communications)</li>
+  <li>IEEE GLOBECOM 2021 (SAC: Aerial Communications)</li>
+  <li>IEEE ICC 2020 (Workshop on UAV Communications)</li>
+  <li>IEEE GLOBECOM 2019</li>
+  <li>IEEE ICC 2018 (Workshop on UAV Communications)</li>
+  <li>1st IEEE 5G Word Forum (5G-WF 2018)</li>
+  <li>IEEE GLOBECOM 2017</li>
+  <li>IEEE Int. Conf. on Communication Systems (IEEE ICCS 2016)</li>
+  <li>Int. Conf. Wireless Communications and Signal Processing (WCSP 2016)</li>
+  <li>IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS 2016)</li>  
+</ul>
+
+
+</div>
+</div>
+
